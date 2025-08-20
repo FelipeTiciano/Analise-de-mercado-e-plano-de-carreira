@@ -14,9 +14,7 @@ Este repositório contém o relatório completo da pesquisa e análise sobre o p
 
 ## Como acessar
 
-O arquivo do relatório está disponível aqui:
-
-📄 [Relatório Completo - PDF](./relatorio_desenvolvedor_web_junior_2025.pdf)
+📄 Relatório completo em PDF disponível no repositório
 
 ## Sobre o autor
 
